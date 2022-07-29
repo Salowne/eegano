@@ -26,7 +26,7 @@ Instalador de Ferramentas Kali Linux.
 - P11 : Atalho Ataques de Senha.
 - P12 : Atalho Engenharia Reversa.
 - P13 : Atalho Hacking de Hardware.
--h, --help, --version
+- -h, --help, --version
 
 # Requesito:
 - SUDO, ou fakeroot com Sudo Funcional.
