@@ -11,6 +11,8 @@ Instalador de Ferramentas Kali Linux.
 - EEGANO e uma Atualização de:
 - https://github.com/GMagNLL/doxyTools.
 
+As Informações sobre as Ferramentas estão em PT-BR.
+
 # Usage:
 - back : Volta para Guia Anterior.
 - P01 : Atalho Coleta de Informacoes.
