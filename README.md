@@ -40,4 +40,5 @@ As Informações sobre as Ferramentas estão em PT-BR.
 
 - git clone https://github.com/GMagNLL/eegano.git && cp eegano/eegano /usr/bin
 - chmod +x /usr/bin/eegano
-- $ eegano
+
+$ eegano
