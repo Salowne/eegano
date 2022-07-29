@@ -15,14 +15,14 @@ As Informações sobre as Ferramentas estão em PT-BR.
 
 # Usage:
 - back : Volta para Guia Anterior.
-- P01 : Atalho Coleta de Informacoes.
+- P01 : Atalho Coleta de Informações.
 - P02 : Atalho Analise de Vulnerabilidade.
 - PO3 : Atalho Ataque a Redes sem Fio.
 - PO4 : Atalho Aplicativos da web.
-- P05 : Atalho Farejamento & Falsificacao.
+- P05 : Atalho Farejamento & Falsificação.
 - P06 : Atalho Mantendo o Acesso.
-- P07 : Atalho Ferramentas de Reportacao.
-- P08 : Atalho Ferramentas de Exploracao.
+- P07 : Atalho Ferramentas de Reportação.
+- P08 : Atalho Ferramentas de Exploração.
 - P09 : Atalho Ferramentas Forenses.
 - P10 : Atalho Teste de Estresse.
 - P11 : Atalho Ataques de Senha.
@@ -40,4 +40,4 @@ As Informações sobre as Ferramentas estão em PT-BR.
 
 - git clone https://github.com/GMagNLL/eegano.git && cp eegano/eegano /usr/bin
 - chmod +x /usr/bin/eegano
-- eegano
+- $ eegano
