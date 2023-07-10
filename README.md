@@ -17,8 +17,8 @@ As Informações sobre as Ferramentas estão em PT-BR.
 - back : Volta para Guia Anterior.
 - P01 : Atalho Coleta de Informações.
 - P02 : Atalho Analise de Vulnerabilidade.
-- PO3 : Atalho Ataque a Redes sem Fio.
-- PO4 : Atalho Aplicativos da web.
+- P03 : Atalho Ataque a Redes sem Fio.
+- P04 : Atalho Aplicativos da web.
 - P05 : Atalho Farejamento & Falsificação.
 - P06 : Atalho Mantendo o Acesso.
 - P07 : Atalho Ferramentas de Reportação.
